@@ -1,0 +1,28 @@
+.color
+{
+    
+    background-color: royalblue;
+
+}
+
+.toDoParagraph
+{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+
+.toDoList
+{
+    border: 2px solid black;
+}
+
+#appending
+{
+    cursor: pointer;
+    font-size: larger;
+}
+
+.alert-info:hover{
+    background-color:teal;
+}
+
